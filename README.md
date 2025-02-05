@@ -1,4 +1,4 @@
-This is a project completed in 2022. The project requirements can be found at .., and the project report file is named .. Below is a brief introduction to the project.
+This is a project completed in 2022. The project requirements can be found at Project-Reversed-Reversi-EN.pdf, and the project report file is named 12011818_熊牧星.pdf Below is a brief introduction to the project.
 
 In recent years, with the popularity of AlphaGo, the chess AI that beats the world champion in GO chess, people are paying more and more attention to chess AI and the whole field of artificial intelligence.
 
